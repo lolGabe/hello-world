@@ -1,2 +1,9 @@
 # hello-world
-Write a short description
+
+My name is Gabe
+
+Nice to meet you 
+
+Sooo
+
+What's the word
